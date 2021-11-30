@@ -1,0 +1,73 @@
+*{margin: 0px; padding: 0px; font-family: 'Poppins', sans-serif;}
+
+.kutu {
+	height: 550px;
+	width: 500px;
+	border: 2px solid #ccc;
+	border-radius: 8px;
+	background: #ffff;
+	margin-left: 400px;
+	margin-top: 50px;
+}
+
+.oturum {
+	text-align: center;
+	font-size: 25px;
+}
+
+.gimage{
+	width: 75px;
+	height: 27px;
+	margin-top: 50px;
+	margin-left: 200px;
+}
+
+.inceyazi {
+	text-align: center;
+}
+
+input[type=text] {
+  width: 70%;
+  height: 50px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: #e5e3e3 1px solid;
+  border-radius: 4px;
+  font-family: Arial;
+}
+
+#fname {
+	margin-left: 75px;
+}
+
+#unuttunuz{
+	color: #1A73E8;
+	font-size: 14px;
+	margin-left: 73px;
+	font-weight: bold;
+}
+
+.misafir {
+	font-size: 14px;
+	margin-left: 75px;
+	margin-right: 20px;
+}
+
+#olustur {
+	font-weight: bold;
+	color: #1A73E8;
+	margin-left: 73px;
+}
+
+.ileri {
+	width: 90px;
+	height: 40px;
+	border-radius: 5px;
+	float: right;
+	background: #1A73E8;
+	color: #fff;
+	text-align: center;
+	line-height: 40px;
+	margin-right: 20px;
+}
